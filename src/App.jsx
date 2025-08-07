@@ -6,6 +6,7 @@ import Titulo from './Titulo';
 import Rodape from './Rodape';
 import Menu from './Menu';
 import Banner from './Banner'
+import CalcDollar from './CalcDollar';
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
         <Titulo />
         <Menu />
         <Banner />
+        <CalcDollar />
       </div>
       <Rodape />
     </>
