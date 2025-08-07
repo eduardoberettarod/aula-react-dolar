@@ -5,8 +5,8 @@ function CalcDollar() {
     const calcular = (function () {
         const reais = document.getElementById('reais').value
         const cotacao = document.getElementById('cotacao').value
-        total = reais / cotacao
-        alert(cotacao)
+        const total = reais / cotacao
+        alert(total)
     })
 
     return (
