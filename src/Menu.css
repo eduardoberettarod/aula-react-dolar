@@ -1,0 +1,16 @@
+.menu-gap {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+.navH {
+    font-family: "Notable", sans-serif;
+    letter-spacing: 0.1rem;
+    font-size: 0.9rem;
+    transition: color 0.35s ease;
+}
+.navH:hover{
+    color: #198754;
+    transition: color 0.25s ease;
+}
